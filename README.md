@@ -5,7 +5,7 @@
 - 👀 I'm interested in web development topics.
 - 🌱 I’m currently learning Backend development and more.
 - 💞️ I’m looking to collaborate on any!
-- 📫 You can reach me in [https://www.linkedin.com/in/huynhthaibao/](https://www.linkedin.com/in/duy-nguyen-3aa700282/)
+- 📫 You can reach me in [https://www.linkedin.com/in/NguyenHaMinhDuy/](https://www.linkedin.com/in/duy-nguyen-3aa700282/)
 - 🔍  As a passionate frontend developer who recently graduated from RMIT University, I am excited to apply my fundamental knowledge of web development to a Front End developer role. I believe my technical skills, coupled with a growth and result-oriented mindset, will allow me to create concrete, measurable outcomes. Looking towards the future, my aspiration is to continuously expand my capabilities and become a skilled Full-stack Engineer and Project Manager.
 
 ---
