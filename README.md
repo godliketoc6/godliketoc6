@@ -1,12 +1,13 @@
 # 🛸 Daniel Nguyen
 
-**`Frontend Developer`**
+**`Data Engineer`**
 
-- 👀 I'm interested in web development topics.
-- 🌱 I’m currently learning Backend development and more.
-- 💞️ I’m looking to collaborate on any!
-- 📫 You can reach me in [https://www.linkedin.com/in/NguyenHaMinhDuy/](https://www.linkedin.com/in/duy-nguyen-3aa700282/)
-- 🔍  As a passionate frontend developer who recently graduated from RMIT University, I am excited to apply my fundamental knowledge of web development to a Front End developer role. I believe my technical skills, coupled with a growth and result-oriented mindset, will allow me to create concrete, measurable outcomes. Looking towards the future, my aspiration is to continuously expand my capabilities and become a skilled Full-stack Engineer and Project Manager.
+- 👀 I'm interested in data engineering, big data processing, and analytics.
+- 🌱 I’m currently learning advanced data orchestration and streaming technologies.
+- 💞️ I’m open to collaborating on data-driven projects and analytics platforms.
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/haminh-duy)
+- 🔍 As a passionate Data Engineer who recently graduated from RMIT University, I am excited to apply my fundamental knowledge of data processing and analytics to a Data Engineer role. I believe my technical skills, coupled with a growth and result-oriented mindset, will allow me to create concrete, measurable outcomes. Looking towards the future, my aspiration is to continuously expand my capabilities and become a skilled Senior Data Engineer and Data Architect.
+
 
 ---
 
